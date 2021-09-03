@@ -7,5 +7,5 @@ f(n) = 3n+1 if n is odd
 */
 
 int hailstone_sequence_length(int number) {
-    return 0;
+    return 1;
 }
